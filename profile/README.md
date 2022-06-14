@@ -12,6 +12,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=Tianscar&theme=react-dark"/><br>
 <img src="https://activity-graph.herokuapp.com/graph?username=LingASDJ&theme=react-dark" /><br>
 <img src="https://activity-graph.herokuapp.com/graph?username=deng-rui&theme=react-dark" /><br>
-<img src="https://activity-graph.herokuapp.com/graph?usernameSteveUbuntu0&theme=react-dark" />
+<img src="https://activity-graph.herokuapp.com/graph?username=SteveUbuntu0&theme=react-dark" />
 
 
