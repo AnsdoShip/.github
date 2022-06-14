@@ -1,2 +1,2 @@
 # .github
-AnsdoShip,Each of us is a child from scratch.
+We are AnsdoShip Studio, starting from scratch!
