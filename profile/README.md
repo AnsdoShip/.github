@@ -3,9 +3,9 @@
 
 ## Recent activities of project leaders
 <img src="https://activity-graph.herokuapp.com/graph?username=Tianscar&theme=github&bg_color=ffffff&color=000000&point=000000" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Dobmod&theme=github&bg_color=ffffff&color=000000&point=000000" />
 <img src="https://activity-graph.herokuapp.com/graph?username=LingASDJ&theme=github&bg_color=ffffff&color=000000&point=000000" />
 <img src="https://activity-graph.herokuapp.com/graph?username=deng-rui&theme=github&bg_color=ffffff&color=000000&point=000000" />
 <img src="https://activity-graph.herokuapp.com/graph?username=SteveUbuntu0&theme=github&bg_color=ffffff&color=000000&point=000000" />
 <img src="https://activity-graph.herokuapp.com/graph?username=catandA&theme=github&bg_color=ffffff&color=000000&point=000000" />
 <img src="https://activity-graph.herokuapp.com/graph?username=InvincibleStars&theme=github&bg_color=ffffff&color=000000&point=000000" />
-<img src="https://activity-graph.herokuapp.com/graph?username=AliceAndTheWorld&theme=github&bg_color=ffffff&color=000000&point=000000" />
